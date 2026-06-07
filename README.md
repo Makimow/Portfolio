@@ -1,23 +1,44 @@
-# Mon Portfolio - Makimo
+\# Makimo — Portfolio
 
-## Profil pro
 
-## Mes objectifs
 
-### Court terme
+Stack: Vite + React + TailwindCSS
 
-### Long terme
 
-## Projets réalisés
 
-### Sites
+\## Installation
 
-Galerie
+1\. `npm install`
 
-Petanque
+2\. `npm run dev`
 
-Nuit de l'info
+3\. Ouvre `http://localhost:5173` (ou l'URL indiquée par Vite)
 
-### Jeux
 
-Code Game Jam
+
+\## Structure
+
+\- `public/cv.json` : données dynamiques (profil, expériences, projets).
+
+\- `src/pages/Portfolio.jsx` : composant principal qui lit `cv.json`.
+
+\- `src/components/ui` : composants Card \& Button.
+
+
+
+\## Personnalisation rapide
+
+\- Édite `public/cv.json` pour modifier ton CV / projets.
+
+\- Modifie styles dans `tailwind.config.js` ou `src/index.css`.
+
+
+
+\## Déploiement
+
+\- Build: `npm run build`
+
+\- Ensuite déployer le dossier `dist` sur Netlify / Vercel / GitHub Pages.
+
+
+

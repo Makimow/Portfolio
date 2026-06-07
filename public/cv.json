@@ -1,0 +1,71 @@
+{
+  "name": "Antonin Hornoy",
+  "alias": "Makimo",
+  "title": "Étudiant en BTS CIEL - IR",
+  "objective": "Recherche alternance - Administrateur réseau",
+  "profile": "Actuellement inscrit en formation BTS CIEL au sein du pôle de formation UIMM Baillargues, je recherche une alternance pour gagner une expérience pratique et renforcer mes aptitudes techniques et professionnelles. Avec une forte curiosité ainsi qu'une passion pour les défis de la cybersécurité, je suis prêt à m'engager totalement au sein d'une entreprise pour apporter ma contribution active à ses projets tout en approfondissant mes compétences pratiques.",
+  "contact": {
+    "email": "hornoyantonin@gmail.com",
+    "phone": "06 26 27 03 92",
+    "location": "Saint-Clément-de-Rivière",
+    "driving_license": "Permis B - Véhiculé"
+  },
+  "skills": {
+    "techniques": [
+      "Java",
+      "HTML/CSS",
+      "C",
+      "Python",
+      "Sécurisation et exploitation",
+      "Mise en place et maintenance de serveurs",
+      "Déploiement d’application",
+      "Monitoring et gestion de crise",
+      "Méthode Agile",
+      "Support utilisateur et Helpdesk"
+    ],
+    "generales": [
+      "Anglais niveau C1",
+      "Bonne relation client",
+      "Persévérant",
+      "Respect des règles",
+      "Bonne communication",
+      "Travail en équipe",
+      "Bonne adaptabilité"
+    ]
+  },
+  "experience": [
+    { "role": "Administrateur réseau", "company": "IFV" },
+    { "role": "Concepteur / Gestion de projet", "company": "IME Conseil" },
+    { "role": "DevOps", "company": "Lundi Matin" },
+    { "role": "Employé polyvalent", "company": "Mairie" },
+    { "role": "Équipier polyvalent", "company": "Divers" }
+  ],
+  "education": [
+    { "degree": "BTS CIEL", "institution": "UIMM Baillargues", "details": "Rythme 2 semaines / 2 semaines" },
+    { "degree": "IUT Informatique", "institution": "IUT Montpellier - Sète" },
+    { "degree": "Licence de Mathématiques", "institution": "Université Paul Sabatier" },
+    { "degree": "CS50x", "institution": "edX" }
+  ],
+  "projects": [
+    {
+      "title": "Echo's Odyssey",
+      "year": 2022,
+      "description": "Jeu vidéo réalisé lors de la Code Game Jam 2022.",
+      "link": "https://aryasu.itch.io/echos-odyssey1"
+    },
+    {
+      "title": "Tomorrow is Today",
+      "year": 2023,
+      "description": "Jeu vidéo réalisé lors de la Code Game Jam 2023.",
+      "link": "https://aryasu.itch.io/tomorrow-is-today"
+    }
+  ],
+  "interests": [
+    "Programmation",
+    "Jeux vidéo : lien social, challenge",
+    "Rubik’s Cube (résolution en 1m30)",
+    "Musique : guitare, batterie, production",
+    "Tours de magie (close-up)",
+    "Haltérophilie"
+  ]
+}
